@@ -21,4 +21,11 @@ if ERRORLEVEL 1 (
 	ECHO "wget.bat not in path."
 	exit /b 1
 )
+
+where wget.ps1 > nul
+if ERRORLEVEL 1 ( 
+	ECHO "wget.ps1 not in path."
+	exit /b 1
+)
+
 ECHO Looks good.
