@@ -17,7 +17,7 @@
     - Copy the files from the provided `Utils` folder into your `C:\Utils` folder.
     - Note that because you have modified your `PATH` variable, any open shell/terminal sessions, jupyter books, python interpreters, etc. will all need to be closed and re-opened **(if in doubt, just reboot)**.
 
-  - Follow the instructons from the [tensorflow-object-detection-api installation guide](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html):
+  - Follow the instructions from the [tensorflow-object-detection-api installation guide](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html):
     - For the CUDA & CuDNN installs you must install the specific versions that it wants.
       - After the install, you need to **reboot** again.
       - It's okay to install multiple versions of CUDA at once, but in the NVIDIA installer, make sure that ONLY the CUDA box is checked (e.g. do a custom installation).
