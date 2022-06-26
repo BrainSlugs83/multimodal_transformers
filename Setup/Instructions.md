@@ -1,7 +1,7 @@
 # Instructions
 
 ## Notes
-**Note:** that there are a lot of SPECIFIC versions of software you installed; just installing the latest will definitely not work (at the time of this writing 2022-06-26); and everything is a bit of a hot mess with Python in general.
+**Note:** that there are a lot of SPECIFIC versions of software that must be installed; just installing the latest will definitely not work (at the time of this writing 2022-06-26); and everything is a bit of a hot mess with Python in general.
 
 **Note:** This was tested with Conda 4.13.0
 
