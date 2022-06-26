@@ -21,4 +21,4 @@ if ERRORLEVEL 1 (
 	ECHO "wget.bat not in path."
 	exit /b 1
 )
-ECHO "Looks good."
+ECHO Looks good.
