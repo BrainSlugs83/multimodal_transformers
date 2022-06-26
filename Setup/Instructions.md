@@ -20,7 +20,7 @@
   - Follow the instructions from the [tensorflow-object-detection-api installation guide](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html):
     - For the CUDA & CuDNN installs you must install the specific versions that it wants.
       - After the install, you need to **reboot** again.
-      - It's okay to install multiple versions of CUDA at once, but in the NVIDIA installer, make sure that ONLY the CUDA box is checked (e.g. do a custom installation).
+      - It's okay to install multiple versions of CUDA at once, but in the NVIDIA installer, make sure that ONLY the CUDA box is checked (e.g. do a `Custom` installation and uncheck all of the other boxes).
     - When you get to the part about installing protobuff, you MUST use [version 3.19.4](https://github.com/protocolbuffers/protobuf/releases/tag/v3.19.4) -- this version has already been provided in the `Utils` folder, so you can just skip this setup in the guide.  (Note: if you use any newer version, you will run into cryptic failures later on in the guide.)
 
   - After you have completed the guide, manually install the following packages:
