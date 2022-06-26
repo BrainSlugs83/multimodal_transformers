@@ -12,7 +12,7 @@
   - [Enable long paths in Windows 10](https://docs.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=cmd#enable-long-paths-in-windows-10-version-1607-and-later)
     - tl;dr: just run the `long-file-paths.reg` file and then **reboot**.
 
-  - Create a Utils folder on your PC (recommended: `C:\Utils\`)
+  - Create a `Utils` folder on your PC (recommended: `C:\Utils\`)
     - Add this folder to your system `PATH` ([Tutorial](https://www.c-sharpcorner.com/article/add-a-directory-to-path-environment-variable-in-windows-10/)).
     - Copy the files from the provided `Utils` folder into your `C:\Utils` folder.
     - Note that because you have modified your `PATH` variable, any open shell/terminal sessions, jupyter books, python interpreters, etc. will all need to be closed and re-opened **(if in doubt, just reboot)**.
