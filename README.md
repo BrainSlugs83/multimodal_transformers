@@ -1,7 +1,8 @@
 > # Notice:
 > I have made the following  modifications to this fork of the repo:
 >  - I have provided a Windows Setup guide at `Setup\Instructions.md`.
->  - I have modified the Jupyter Notebook (`mmt_release.ipynb`) to be work on Windows.
+>  - I have modified the Jupyter Notebook (`mmt_release.ipynb`) to work on Windows.
+>  - I have modified this guide by providing this notice, and updating the `Installation` section.
 >
 >*--BrainSlugs83*
 
