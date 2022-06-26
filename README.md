@@ -1,3 +1,10 @@
+> # Notice:
+> I have made the following  modifications to this fork of the repo:
+>  - I have provided a Windows Setup guide at `Setup\Instructions.md`.
+>  - I have modified the Jupyter Notebook (`mmt_release.ipynb`) to be work on Windows.
+>
+>*--BrainSlugs83*
+
 # Multimodal Transformers
 
 This code runs inference with the multimodal transformer models described in "Decoupling the Role of Data,
@@ -74,8 +81,12 @@ In addition to our transformer models, we also release our baseline models.  See
 
 ## Installation
 
-You do not need to install anything!  You should be able to run all code
-from our released colab.
+~~You do not need to install anything!  You should be able to run all code
+from our released colab.~~
+
+**Edit:** It was my experience that the setup to get this working was very involved and convoluted, hence the guide I have provided (`Setup\Instructions.ms`).
+
+Best of luck at getting any of this to work at some unspecified point in the near or distant future. 😓
 
 ## Usage
 
